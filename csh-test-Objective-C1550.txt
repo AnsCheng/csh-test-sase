@@ -1,0 +1,29 @@
+@interface MyClass:NSObject{ 
+// 类变量声明
+}
+// 类属性声明
+// 类方法和声明vfvf1500
+@end
+
+@implementation MyClass
+// 类方法定义1445
+@end
+
+
+MyClass  *objectName = [[MyClass alloc]init] ;
+
+
+-(returnType)methodName:(typeName) variable1 :(typeName)variable2;
+
+[self calculateAreaForRectangleWithLength:30 andBreadth:20];
+
+NSMutableDictionary*aMutableDictionary = [[NSMutableArray alloc]init];
+[aMutableDictionary setObject:@"firstobject" forKey:@"aKey"];
+NSDictionary*aImmutableDictionary= [[NSDictionary alloc]initWithObjects:[NSArray arrayWithObjects:
+@"firstObject",nil] forKeys:[ NSArray arrayWithObjects:@"aKey"]];
+
+
+NSMutableArray *aMutableArray = [[NSMutableArray alloc]init];
+[anArray addObject:@"firstobject"];
+NSArray *aImmutableArray = [[NSArray alloc]
+initWithObjects:@"firstObject",nil];
