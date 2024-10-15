@@ -1,0 +1,35 @@
+COMMAND    PID USER   FD      TYPE             DEVICE  SIZE/OFF                NODE NAME
+sasecloud 1793 root  cwd       DIR                1,7       640                   2 /
+sasecloud 1793 root  txt       REG                1,7  55974800             2452728 /Applications/SASE.app/Contents/Services/sasecloud.app/Contents/MacOS/sasecloud
+sasecloud 1793 root  txt       REG                1,7     52392             2546635 /Library/Preferences/Logging/.plist-cache.8GHOpQtk
+sasecloud 1793 root  txt       REG                1,7    134124             2546912 /private/var/db/analyticsd/events.allowlist
+sasecloud 1793 root  txt       REG                1,7    237952              722415 /private/var/db/timezone/tz/2024a.1.0/icutz/icutz44l.dat
+sasecloud 1793 root  txt       REG                1,7       110 1152921500312099195 /System/Library/CoreServices/SystemVersion.bundle/English.lproj/SystemVersion.strings
+sasecloud 1793 root  txt       REG                1,7    462128 1152921500312182663 /System/Library/Frameworks/Security.framework/Versions/A/PlugIns/csparser.bundle/Contents/MacOS/csparser
+sasecloud 1793 root  txt       REG                1,7     32768             2546663 /private/var/db/mds/messages/se_SecurityMessages
+sasecloud 1793 root  txt       REG                1,7   2437440             2452814 /opt/AliyunSase/filescan/KVFile/kvutil.so
+sasecloud 1793 root  txt       REG                1,7   1717968             2452808 /opt/AliyunSase/filescan/KVFile/kwad.so
+sasecloud 1793 root  txt       REG                1,7    136152 1152921500312098902 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car
+sasecloud 1793 root  txt       REG                1,7   9143120             2452945 /opt/AliyunSase/filescan/KVFile/kvfilter.so
+sasecloud 1793 root  txt       REG                1,7   2407760             2453025 /opt/AliyunSase/filescan/KVFile/xmp.so
+sasecloud 1793 root  txt       REG                1,7   2649248             2452943 /opt/AliyunSase/filescan/KVFile/kvxtract.so
+sasecloud 1793 root  txt       REG                1,7  30447056 1152921500312450519 /usr/share/icu/icudt70l.dat
+sasecloud 1793 root  txt       REG                1,7   7851656 1152921500312098863 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Aqua.car
+sasecloud 1793 root  txt       REG                1,7   2979064 1152921500312098891 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FauxVibrantLight.car
+sasecloud 1793 root  txt       REG                1,7   5932296 1152921500312098916 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantLight.car
+sasecloud 1793 root    0r      CHR                3,2       0t0                 323 /dev/null
+sasecloud 1793 root    1u      CHR                3,2     0t328                 323 /dev/null
+sasecloud 1793 root    2u      CHR                3,2 0t3458064                 323 /dev/null
+sasecloud 1793 root    3u   KQUEUE                                                  count=0, state=0xa
+sasecloud 1793 root    4u   KQUEUE                                                  count=0, state=0xa
+sasecloud 1793 root    5w      REG                1,7   3454866             2552136 /Library/Application Support/AliyunSase/log/SASE.sasecloud.sase.main.20240909-181207.1793.log
+sasecloud 1793 root    6r      REG                1,7   1443424 1152921500312437723 /usr/bin/sudo
+sasecloud 1793 root    7      PIPE 0x3d3118fce1dc55be     16384                     ->0xea4ad85bc0108314
+sasecloud 1793 root    8u     IPv4 0x1f9e353e1a0ce897       0t0                 UDP *:*
+sasecloud 1793 root    9      PIPE 0xea4ad85bc0108314     16384                     ->0x3d3118fce1dc55be
+sasecloud 1793 root   10u     IPv4 0x1f9e35394f4077df       0t0                 TCP 77imac.lan:50314->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 1793 root   11u   KQUEUE                                                  count=0, state=0xa
+sasecloud 1793 root   14u     unix 0x1f9e3542e55a03df       0t0                     ->0x1f9e3542e55a04a7
+sasecloud 1793 root   16      PIPE 0x46846b6759fd9748     16384                     ->0x76087d07b73d43de
+sasecloud 1793 root   26   NPOLICY                                                  
+sasecloud 1793 root   27u    systm 0x1f9e35348224cb17       0t0                     [ctl com.apple.netsrc id 6 unit 6]
