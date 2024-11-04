@@ -35,7 +35,7 @@ def install_wechat_from_app_store():
                 end repeat
                 log "Search results loaded"
                 
-                -- 找到搜索结果列33321113表
+                -- 找到搜索结果列33321sss113表
                 set resultList to colcscslection view 1 of scroll area 1
                 log "Result list found"
                 
