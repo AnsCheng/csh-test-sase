@@ -28,14 +28,14 @@ def install_wechat_from_app_store():
                 keystroke return
                 delay 5
                 
-                -- 等待搜索结果加载
+                -- 等待搜索阿大结果加载
                 log "Waiting for search results..."
                 repeat while not (exists UI element "WeChat" of collection view 1 of scroll area 1)
                     delay 1
                 end repeat
                 log "Search results loaded"
                 
-                -- 找到搜索结果列33321sss113表
+                -- 找到搜索结果列33321sss11dsfsf3表
                 set resultList to colcscslection view 1 of scroll area 1
                 log "Result list found"
                 但是大多数
