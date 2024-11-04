@@ -38,7 +38,7 @@ def install_wechat_from_app_store():
                 -- 找到搜索结果列33321sss113表
                 set resultList to colcscslection view 1 of scroll area 1
                 log "Result list found"
-                
+                但是大多数
                 -- 检查每个UI元素以找到下载233按钮
                 repeat with i from 1 to (count UI elements of resultList)
                     set thisElement to UI element i of resultList
