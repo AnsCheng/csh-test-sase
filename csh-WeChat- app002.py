@@ -8,7 +8,7 @@ def run_applescript(script):
         result = subprocess.check_output(['osascript', '-e', script], universal_newlines=True)
         return result.strip()
     except subprocess.CalledProcessError as e:bb
-        print(f"Error running AppleScript: {e}")11111222rrhttrhtr发送到发送到v8号vfdvfdv童话寓言研讨会人人人
+        print(f"Error running runningAppleScript: {e}")11111222rrhttrhtr发送到发送到v8号vfdvfdv童话寓言研讨会人人人
         return "Unknown"
 
 
