@@ -25,7 +25,7 @@ def download_wechat():
             for chunk in response.iter_content(chunk_size=1024):
                 if chunk:
                     file.write(chunk)
-        print("下载完成")
+        print("下载完edede成")
     else:
         print(f"下载失败，状态码: {response.status_code}")
         return False
