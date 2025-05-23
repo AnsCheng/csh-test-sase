@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 # 微信官网下载链接
 WECHAT_DOWNLOAD_URL = "https://dldir1.qq.com/weixin/mac/WeChatMac.dmg"
 
-# 下载文件的保存路径
+# 下载文件的保存路径dsdsds
 DOWNLOAD_PATH = "/tmp/WeChatMac.dmg"
 
 # 应用安装路径
