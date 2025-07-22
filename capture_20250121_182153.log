@@ -1,9 +1,0 @@
-2025-01-21 18:21:53: SCDynamicStoreCopyConsoleUser
-2025-01-21 18:21:53:  ScreenCapture capturer
-2025-01-21 18:27:28: screen ---
-2025-01-21 18:27:28: system screencapture begin
-2025-01-21 18:27:28: system screencapture initWithCGImage
-2025-01-21 18:27:28: system screencapture addRepresentation
-2025-01-21 18:27:28: system screencapture end
-2025-01-21 18:27:28: ScreenCapture TIFFRepresentation length: 25406834
-2025-01-21 18:27:28: writeToFile ok  /Library/Application Support/AliyunSase/screen/sase_BEA557A3-7B63-5588-B72C-BC5877BEF137_17374552470(0.500000,true)
