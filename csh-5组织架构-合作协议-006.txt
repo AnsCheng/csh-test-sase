@@ -1,0 +1,145 @@
+COMMAND    
+
+  1-csh test
+ PID USER   FD      TYPE             DEVICE  SIZE/OFF                NODE NAME
+sasecloud 22188 root  cwd       DIR                1,7       640                   2 /
+sasecloud 22188 root  txt       REG                1,7  66195408              884172 /Applications/SASE.app/Contents/Services/sasecloud.app/Contents/MacOS/sasecloud
+sasecloud 22188 root  txt       REG                1,7     52392              718850 /Library/Preferences/Logging/.plist-cache.brhbJmzr
+sasecloud 22188 root  txt       REG                1,7       110 1152921500312099195 /System/Library/CoreServices/SystemVersion.bundle/English.lproj/SystemVersion.strings
+sasecloud 22188 root  txt       REG                1,7    332256              884502 /opt/AliyunSase/filescan/libs/libutf8proc.dylib
+sasecloud 22188 root  txt       REG                1,7   2723712              884501 /opt/AliyunSase/filescan/libs/libMNN.dylib
+sasecloud 22188 root  txt       REG                1,7  30447056 1152921500312450519 /usr/share/icu/icudt70l.dat
+sasecloud 22188 root  txt       REG                1,7    462128 1152921500312182663 /System/Library/Frameworks/Security.framework/Versions/A/PlugIns/csparser.bundle/Contents/MacOS/csparser
+sasecloud 22188 root  txt       REG                1,7     32768              718879 /private/var/db/mds/messages/se_SecurityMessages
+sasecloud 22188 root  txt       REG                1,7   2437440              884242 /opt/AliyunSase/filescan/KVFile/kvutil.so
+sasecloud 22188 root  txt       REG                1,7   1717968              884236 /opt/AliyunSase/filescan/KVFile/kwad.so
+sasecloud 22188 root  txt       REG                1,7    136152 1152921500312098902 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/SystemAppearance.car
+sasecloud 22188 root  txt       REG                1,7    396688              884444 /opt/AliyunSase/filescan/KVFile/codeidentifierplugin.so
+sasecloud 22188 root  txt       REG                1,7   9143120              884376 /opt/AliyunSase/filescan/KVFile/kvfilter.so
+sasecloud 22188 root  txt       REG                1,7   2407760              884456 /opt/AliyunSase/filescan/KVFile/xmp.so
+sasecloud 22188 root  txt       REG                1,7   2649248              884374 /opt/AliyunSase/filescan/KVFile/kvxtract.so
+sasecloud 22188 root  txt       REG                1,7   7851656 1152921500312098863 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/Aqua.car
+sasecloud 22188 root  txt       REG                1,7   2979064 1152921500312098891 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/FauxVibrantLight.car
+sasecloud 22188 root  txt       REG                1,7   5932296 1152921500312098916 /System/Library/CoreServices/SystemAppearance.bundle/Contents/Resources/VibrantLight.car
+sasecloud 22188 root  txt       REG                1,7  22700688              884333 /opt/AliyunSase/filescan/KVFile/kviwork13.so
+sasecloud 22188 root  txt       REG                1,7    134124             1040622 /private/var/db/analyticsd/events.allowlist
+sasecloud 22188 root    0r      CHR                3,2       0t0                 323 /dev/null
+sasecloud 22188 root    1u      CHR                3,2    0t1949                 323 /dev/null
+sasecloud 22188 root    2u      CHR                3,2 0xb518885                 323 /dev/null
+sasecloud 22188 root    3w      REG                1,7   1127668             1053138 /Library/Application Support/AliyunSase/log/SASE.sasecloud.sase.main.20240904-095812.22188.log
+sasecloud 22188 root    4      PIPE 0x7d3cb98b9bb86182     16384                     
+sasecloud 22188 root    5      PIPE 0xd4c059df8d255075     16384                     ->0xf60d54ac073eafda
+sasecloud 22188 root    6u   KQUEUE                                                  count=0, state=0xa
+sasecloud 22188 root    7u     IPv4 0x63bf654db632b615       0t0                 UDP *:*
+sasecloud 22188 root    8   NPOLICY                                                  
+sasecloud 22188 root    9u     unix 0x63bf65528298458d       0t0                     ->0x63bf655282986405
+sasecloud 22188 root   10u    systm 0x63bf653f54962f95       0t0                     [ctl com.apple.netsrc id 6 unit 16]
+sasecloud 22188 root   11u   KQUEUE                                                  count=0, state=0xa
+sasecloud 22188 root   12      PIPE 0xee3e9b760c821b40     16384                     ->0xded4639222cdf519
+sasecloud 22188 root   13      PIPE 0xded4639222cdf519     16384                     ->0xee3e9b760c821b40
+sasecloud 22188 root   14u     IPv4 0x63bf6548ebbf8ddd       0t0                 TCP 10.25.1.1:60382->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   15      PIPE 0xae054a4136698ac5     16384                     ->0x95e8d7dec631784
+sasecloud 22188 root   16      PIPE  0x95e8d7dec631784     16384                     ->0xae054a4136698ac5
+sasecloud 22188 root   17u     IPv4 0x63bf6548ebd682bd       0t0                 TCP 10.25.1.1:61306->197.18.0.85:https (CLOSE_WAIT)
+sasecloud 22188 root   18      PIPE 0xcaca6dc5c78c8f40     16384                     ->0x1faa99e69678a323
+sasecloud 22188 root   19      PIPE 0x1faa99e69678a323     16384                     ->0xcaca6dc5c78c8f40
+sasecloud 22188 root   20u     IPv4 0x63bf6548ec103c7d       0t0                 TCP 10.25.1.1:61851->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   21      PIPE 0xd1d6c9286bfe48d3     16384                     ->0xce208a038218f58a
+sasecloud 22188 root   22      PIPE 0xce208a038218f58a     16384                     ->0xd1d6c9286bfe48d3
+sasecloud 22188 root   23u     IPv4 0x63bf6548eb2bfddd       0t0                 TCP 10.25.1.1:63439->115.238.6.77:https (CLOSED)
+sasecloud 22188 root   24      PIPE 0x54c92f78eb375328     16384                     ->0xfa0122afeef58628
+sasecloud 22188 root   25      PIPE 0x55636250017f2957     16384                     ->0xfec2bef6c3526fdb
+sasecloud 22188 root   26      PIPE 0xfec2bef6c3526fdb     16384                     ->0x55636250017f2957
+sasecloud 22188 root   27u     IPv4 0x63bf6548ebfb4ffd       0t0                 TCP 10.25.1.1:52876->101.67.62.23:https (CLOSED)
+sasecloud 22188 root   28      PIPE 0xfa0122afeef58628     16384                     ->0x54c92f78eb375328
+sasecloud 22188 root   29u     IPv4 0x63bf6548ebc63c7d       0t0                 TCP 10.25.1.1:53797->101.67.62.23:https (CLOSED)
+sasecloud 22188 root   30      PIPE 0xf9428df5d132f6e8     16384                     ->0x7b9ccaafb2ac6065
+sasecloud 22188 root   31      PIPE 0x7b9ccaafb2ac6065     16384                     ->0xf9428df5d132f6e8
+sasecloud 22188 root   32u     IPv4 0x63bf6548eb2a2ffd       0t0                 TCP 10.25.1.1:54631->101.67.62.23:https (CLOSED)
+sasecloud 22188 root   33      PIPE 0x6ee646faa7e7faa9     16384                     ->0x70ff5c13a2bb449e
+sasecloud 22188 root   34      PIPE 0x70ff5c13a2bb449e     16384                     ->0x6ee646faa7e7faa9
+sasecloud 22188 root   35u     IPv4 0x63bf6548ebc33b1d       0t0                 TCP 10.25.1.1:60433->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root   36      PIPE 0x29abc4fcac64d032     16384                     ->0xd633c5f095f56e4a
+sasecloud 22188 root   37      PIPE 0xd633c5f095f56e4a     16384                     ->0x29abc4fcac64d032
+sasecloud 22188 root   38u     IPv4 0x63bf6548ec12379d       0t0                 TCP 10.25.1.1:60969->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root   39      PIPE 0x6ffe5e21a2d324b0     16384                     ->0x75cd5ce074623b62
+sasecloud 22188 root   40      PIPE 0x75cd5ce074623b62     16384                     ->0x6ffe5e21a2d324b0
+sasecloud 22188 root   41u     IPv4 0x63bf6548ebe7ab1d       0t0                 TCP 10.25.1.1:62387->101.67.62.23:https (CLOSED)
+sasecloud 22188 root   42      PIPE 0x67e1e2d9677b0112     16384                     ->0x60eaf2d0a13557b3
+sasecloud 22188 root   43      PIPE 0x60eaf2d0a13557b3     16384                     ->0x67e1e2d9677b0112
+sasecloud 22188 root   44u     IPv4 0x63bf6548eb707b1d       0t0                 TCP 10.25.1.1:63509->101.67.62.23:https (CLOSED)
+sasecloud 22188 root   45      PIPE 0x2a13043368a12b3f     16384                     ->0x47e816a3af9d89c5
+sasecloud 22188 root   46      PIPE 0x47e816a3af9d89c5     16384                     ->0x2a13043368a12b3f
+sasecloud 22188 root   47u     IPv4 0x63bf6548ebd3f15d       0t0                 TCP 10.25.1.1:64014->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root   48      PIPE 0xebba82628bcf174e     16384                     ->0xa0408c9cfc109e9
+sasecloud 22188 root   49      PIPE  0xa0408c9cfc109e9     16384                     ->0xebba82628bcf174e
+sasecloud 22188 root   50u     IPv4 0x63bf6548ebc199bd       0t0                 TCP 10.25.1.1:64642->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root   51      PIPE 0xeceee73b9cfbfb62     16384                     ->0xe310d6de8a3533f
+sasecloud 22188 root   52      PIPE 0xd9d831040a7043dd     16384                     ->0xd81e4a7877964759
+sasecloud 22188 root   53      PIPE 0xd81e4a7877964759     16384                     ->0xd9d831040a7043dd
+sasecloud 22188 root   54u     IPv4 0x63bf6548ebb54ffd       0t0                 TCP 10.25.1.1:52195->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root   55      PIPE  0xe310d6de8a3533f     16384                     ->0xeceee73b9cfbfb62
+sasecloud 22188 root   56u     IPv4 0x63bf6548ec02bb1d       0t0                 TCP 10.25.1.1:52497->101.67.62.23:https (CLOSED)
+sasecloud 22188 root   57      PIPE 0x6dd02cb7d1930a58     16384                     ->0x146835648a3cfdda
+sasecloud 22188 root   58      PIPE 0x146835648a3cfdda     16384                     ->0x6dd02cb7d1930a58
+sasecloud 22188 root   59u     IPv4 0x63bf6548eb2a7ddd       0t0                 TCP 10.25.1.1:55133->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root   60      PIPE 0xcb7529167b163a22     16384                     ->0x62c30fe814886cb5
+sasecloud 22188 root   61      PIPE 0x62c30fe814886cb5     16384                     ->0xcb7529167b163a22
+sasecloud 22188 root   62u     IPv4 0x63bf6548ec1554dd       0t0                 TCP 10.25.1.1:61424->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root   63u   KQUEUE                                                  count=0, state=0xa
+sasecloud 22188 root   64      PIPE 0x519375325677bf36     16384                     ->0xc11d97c24846f5
+sasecloud 22188 root   65      PIPE   0xc11d97c24846f5     16384                     ->0x519375325677bf36
+sasecloud 22188 root   66u     IPv4 0x63bf6548ebfa7c7d       0t0                 TCP 10.25.1.1:62665->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   67      PIPE 0x9093a4352aae607c     16384                     ->0xd9f2c53ca6fd08a1
+sasecloud 22188 root   68      PIPE 0xd9f2c53ca6fd08a1     16384                     ->0x9093a4352aae607c
+sasecloud 22188 root   69u     IPv4 0x63bf6548ebba715d       0t0                 TCP 10.25.1.1:63264->197.18.0.85:https (CLOSED)
+sasecloud 22188 root   70      PIPE 0xe457183332a70bef     16384                     ->0xa0e386fabd5b80e3
+sasecloud 22188 root   71      PIPE 0xa0e386fabd5b80e3     16384                     ->0xe457183332a70bef
+sasecloud 22188 root   72u     IPv4 0x63bf6548ebbb4ffd       0t0                 TCP 10.25.1.1:64142->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   73      PIPE 0xf46d5f267e4a20ec     16384                     ->0x47fb7271b6b5a2ea
+sasecloud 22188 root   74      PIPE 0x47fb7271b6b5a2ea     16384                     ->0xf46d5f267e4a20ec
+sasecloud 22188 root   75u     IPv4 0x63bf6548ec0414dd       0t0                 TCP 10.25.1.1:64539->197.18.0.85:https (CLOSE_WAIT)
+sasecloud 22188 root   76      PIPE 0xc3befa33ec6398e9     16384                     ->0x4bc4bca4402b4c22
+sasecloud 22188 root   77      PIPE 0x4bc4bca4402b4c22     16384                     ->0xc3befa33ec6398e9
+sasecloud 22188 root   78u     IPv4 0x63bf6548ebfcf79d       0t0                 TCP 10.25.1.1:65323->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   79      PIPE 0xd28469d609e7e092     16384                     ->0xdfe0502047c41a79
+sasecloud 22188 root   80      PIPE 0x9b8904c5f8870c85     16384                     ->0x3708e862dd77ed0f
+sasecloud 22188 root   81      PIPE 0x3708e862dd77ed0f     16384                     ->0x9b8904c5f8870c85
+sasecloud 22188 root   82u     IPv4 0x63bf6548ebbd3ffd       0t0                 TCP 10.25.1.1:51242->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   83      PIPE 0xdfe0502047c41a79     16384                     ->0xd28469d609e7e092
+sasecloud 22188 root   84u     IPv4 0x63bf6548ec130b1d       0t0                 TCP 10.25.1.1:51588->115.238.6.77:https (CLOSED)
+sasecloud 22188 root   85      PIPE 0x2d26e5115c30492b     16384                     ->0x407957e33ead4af8
+sasecloud 22188 root   86      PIPE 0x407957e33ead4af8     16384                     ->0x2d26e5115c30492b
+sasecloud 22188 root   87u     IPv4 0x63bf6548ec0372bd       0t0                 TCP 10.25.1.1:53443->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   88      PIPE 0xeb49df14d68841f3     16384                     ->0xbcea4d32e1022edc
+sasecloud 22188 root   89      PIPE 0xbcea4d32e1022edc     16384                     ->0xeb49df14d68841f3
+sasecloud 22188 root   90u     IPv4 0x63bf6548ec12215d       0t0                 TCP 10.25.1.1:54458->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   91      PIPE 0x5c6d8ee16b7fc703     16384                     ->0x373d37c7376822aa
+sasecloud 22188 root   92u     IPv4 0x63bf6548ebfe4ffd       0t0                 TCP 10.25.1.1:55778->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root   93      PIPE 0x373d37c7376822aa     16384                     ->0x5c6d8ee16b7fc703
+sasecloud 22188 root   94      PIPE  0xab11c6a2b35574e     16384                     ->0xc47ccf9e6fc5401c
+sasecloud 22188 root   95      PIPE 0x6b48fca17d17f897     16384                     ->0x1d395aaa8a9a47f4
+sasecloud 22188 root   96      PIPE 0xc47ccf9e6fc5401c     16384                     ->0xab11c6a2b35574e
+sasecloud 22188 root   97u     IPv4 0x63bf6548ebd8463d       0t0                 TCP 10.25.1.1:57585->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root   98      PIPE 0x1d395aaa8a9a47f4     16384                     ->0x6b48fca17d17f897
+sasecloud 22188 root   99u     IPv4 0x63bf6548eb70a79d       0t0                 TCP 10.25.1.1:60733->101.67.62.23:https (CLOSED)
+sasecloud 22188 root  100      PIPE 0x8e93f32f2af76472     16384                     ->0x1e153e19995a7188
+sasecloud 22188 root  101      PIPE 0x1e153e19995a7188     16384                     ->0x8e93f32f2af76472
+sasecloud 22188 root  102u     IPv4 0x63bf6548ebe07ddd       0t0                 TCP 10.25.1.1:51628->115.238.6.77:https (CLOSED)
+sasecloud 22188 root  103      PIPE  0xc50fc4ce308fa98     16384                     ->0x9cf28cb7476f8e88
+sasecloud 22188 root  104      PIPE 0x9cf28cb7476f8e88     16384                     ->0xc50fc4ce308fa98
+sasecloud 22188 root  105u     IPv4 0x63bf6548ebc8ac7d       0t0                 TCP 10.25.1.1:64298->115.238.6.77:https (CLOSED)
+sasecloud 22188 root  106u     IPv4 0x63bf6548ebfddb1d       0t0                 TCP 10.25.1.1:52903->115.238.6.77:https (CLOSED)
+sasecloud 22188 root  107      PIPE 0x3a197db1b4bcaa57     16384                     ->0xb242d25997e5f650
+sasecloud 22188 root  108      PIPE 0xb242d25997e5f650     16384                     ->0x3a197db1b4bcaa57
+sasecloud 22188 root  109u     IPv4 0x63bf6548ebbf4b1d       0t0                 TCP 10.25.1.1:59125->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root  110      PIPE 0xbc9a7ae74a1779ff     16384                     ->0x736d622391febd1c
+sasecloud 22188 root  111      PIPE 0x736d622391febd1c     16384                     ->0xbc9a7ae74a1779ff
+sasecloud 22188 root  112u     IPv4 0x63bf6548ebfe39bd       0t0                 TCP 10.25.1.1:55097->101.67.62.23:https (CLOSE_WAIT)
+sasecloud 22188 root  113      PIPE 0xca7af72da731ac46     16384                     ->0xf52cc391f5590a8d
+sasecloud 22188 root  114      PIPE 0xf52cc391f5590a8d     16384                     ->0xca7af72da731ac46
+sasecloud 22188 root  115      PIPE 0x7dd1f7e85aad1f59     16384                     ->0x2d28b2282e31a384
+sasecloud 22188 root  116r      REG                1,7    168768 1152921500312437957 /usr/bin/xargs
+sasecloud 22188 root  117      PIPE 0x2d28b2282e31a384     16384                     ->0x7dd1f7e85aad1f59
+sasecloud 22188 root  118u     IPv4 0x63bf6548ebd85c7d       0t0                 TCP 10.25.1.1:59398->115.238.6.77:https (CLOSE_WAIT)
+sasecloud 22188 root  119r      REG                1,7    168768 1152921500312437957 /usr/bin/xargs
